@@ -1,0 +1,14 @@
+{
+  "name": "donutsmp-discord-games-bot",
+  "version": "1.0.0",
+  "description": "DonutSMP community Discord virtual-credit games bot.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.10.0",
+    "discord.js": "^14.24.2",
+    "dotenv": "^16.6.1"
+  }
+}
